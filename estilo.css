@@ -1,0 +1,17 @@
+body{
+	background-color:rgba(250,240,230);
+}
+p{
+  font-family: sans-serif;
+  font-style: normal;
+}
+
+#centro {
+    width:100px;
+    height:100px;
+    position:absolute;
+    top:50%;
+    left:50%;
+    margin-top:-50px;
+    margin-left:-50px;
+}
